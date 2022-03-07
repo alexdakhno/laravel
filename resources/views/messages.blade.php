@@ -1,5 +1,5 @@
 @extends('templates.main.layout')
-@section('meta-title')Test git rollback
+@section('meta-title')Test push to remote repository
 @endsection
 @section('content')
     <div class="pricing-header p-3 pb-md-4 mx-auto">
