@@ -1,5 +1,5 @@
 @extends('templates.main.layout')
-@section('meta-title')A Basic HTML5 Template
+@section('meta-title')Test git rollback
 @endsection
 @section('content')
     <div class="pricing-header p-3 pb-md-4 mx-auto">
